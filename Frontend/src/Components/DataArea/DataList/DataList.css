@@ -1,0 +1,9 @@
+.div{
+    display: grid;
+    grid-template-columns: repeat(1fr, 4);
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.h3{
+    text-decoration-color: red;
+}

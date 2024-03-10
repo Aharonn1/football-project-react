@@ -1,0 +1,23 @@
+
+.tables-container {
+    display: flex;
+    justify-content:center;
+}
+
+table {
+    
+    width: 25px;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    height: 30px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+
